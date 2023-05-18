@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from 📍surat, gujarat.<br><br>- 🎓 student @ParulUniversity B.Tech CSE<br>- 📚 currently learning about web</p>
+<p align="left">I'm from 📍surat, gujarat.<br><br>- 🎓 student @ParulUniversity B.Tech CSE<br>- 📚 currently learning about web-developing</p>
 
 ###
 
