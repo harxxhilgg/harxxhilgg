@@ -1,5 +1,5 @@
 # About Me:
-• I’m currently learning web-development and React.js and Solving DSA Questions on [LeetCode](https://leetcode.com/u/harshilx/)<br>• You can Reach me [here](https://linktr.ee/harxxhil.gg)<br>• Fun fact: I Play Games and Code. <br>• Check out my [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>• Check out my [Resume](https://drive.google.com/file/d/1Sw5LXzb2_WqXxKcw-jHqZpVriS2WRmDT/view?usp=sharing)
+• I’m currently learning web-development with TypeScript in React.<br>• You can Reach me [here](https://linktr.ee/harxxhil.gg)<br>• Fun fact: I Play Games and Code. <br>• Check out my [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>• Check out my [Resume](https://drive.google.com/file/d/1Sw5LXzb2_WqXxKcw-jHqZpVriS2WRmDT/view?usp=sharing)
 
 
 ##  Socials:
