@@ -1,4 +1,4 @@
-a# About Me:
+# About Me:
 • I’m currently learning web-development with TypeScript in React.<br>• You can Reach me [here](https://linktr.ee/harxxhil.gg)<br>• Fun fact: I Play Games and Code. <br>• Check out my [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>• Check out my [Resume](https://drive.google.com/file/d/15r1fOYY60pQc08wKgmNVMgcgE1aGoMQm/view?usp=sharing)
 
 
