@@ -1,6 +1,5 @@
 # About Me:
-• I’m currently creating univent: event management application with react native expo with typescript.<br>• You can Reach me [here](https://linktr.ee/harxxhil.gg)<br>• Fun fact: I Play Games and Code. <br>• Check out my [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>• Check out my [Resume](https://drive.google.com/file/d/1xcGb-KJI_VDm_syoIY0IVo2BqKZsn_3K/view?usp=sharing)
-
+• I’m currently creating AxoKaze - Holistic Dashboard with react + vite with typescript.<br>• You can Reach me [here](https://linktr.ee/harxxhil.gg)<br>• Check out my [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>• Check out my [Resume](https://drive.google.com/file/d/1xcGb-KJI_VDm_syoIY0IVo2BqKZsn_3K/view?usp=sharing)
 
 ##  Socials:
 [![Steam](https://img.shields.io/badge/Steam-black.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/harxxhilgg/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshildrowns) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harxxhilgg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/harsshil_0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harxxhilop)
