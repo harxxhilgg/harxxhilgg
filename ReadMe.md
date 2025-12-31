@@ -1,9 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on AxoKaze - Holistic Dashboard with react + vite. <br>
-🌱 I’m currently learning Fullstack development. <br>
-🔗 You can contact me [here](https://linktr.ee/harxxhil.gg/) <br>
-💻 Check out my [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>
-📃 Check out my [Resume](https://drive.google.com/file/d/1xcGb-KJI_VDm_syoIY0IVo2BqKZsn_3K/view?usp=sharing)
+# About Me
+🔭 Currently working on Dev Portfolio with Next.js and Node.js. <br>
+🌱 Currently learning and working on Fullstack development. <br>
+🔗 [Contact](https://linktr.ee/harxxhil.gg/) <br>
+💻 [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>
+📃 [Resume](https://drive.google.com/file/d/1-B_i3j2IfeVVEzauFbARfqy3z_KRZ3H-/view?usp=sharing)
 
 
 ## 🌐 Socials:
