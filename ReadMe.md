@@ -3,7 +3,7 @@
 🌱 Currently learning and working on Fullstack development. <br>
 🔗 [Contact](https://linktr.ee/harxxhil.gg/) <br>
 💻 [Portfolio](https://portfolio-harxxhilgg.vercel.app/) <br>
-📃 [Resume](https://drive.google.com/file/d/1-B_i3j2IfeVVEzauFbARfqy3z_KRZ3H-/view?usp=sharing)
+📃 [Resume](https://drive.google.com/file/d/1mfdx2Rh80W3do9uImX9YoPLAk3G39ZnO/view?usp=sharing)
 
 
 ## 🌐 Socials:
