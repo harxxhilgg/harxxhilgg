@@ -1,8 +1,8 @@
 # About Me
-- Developing [Portfolio](https://harshilp-portfolio.vercel.app)
+- Building [Nextry](https://nex-try.vercel.app)
 - [Contact](https://linktr.ee/harxxhil.gg/)
 - [Portfolio](https://harshilp-portfolio.vercel.app/)
-- [Resume](https://drive.google.com/file/d/1mfdx2Rh80W3do9uImX9YoPLAk3G39ZnO/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1HHspVvRw8Swn-OiLc49E9R9TIyJjHBeC/view?usp=sharing)
 
 
 ## 🌐 Socials:
