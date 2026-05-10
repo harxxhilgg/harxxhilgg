@@ -1,5 +1,5 @@
 # About Me
-- Building [Nextry](https://nex-try.vercel.app)
+- Building [Nextry](https://nex-try.vercel.app) / Refactoring [Portfolio](https://harshilp-portfolio.vercel.app) (to v2)
 - [Contact](https://linktr.ee/harxxhil.gg/)
 - [Portfolio](https://harshilp-portfolio.vercel.app/)
 - [Resume](https://drive.google.com/file/d/1HHspVvRw8Swn-OiLc49E9R9TIyJjHBeC/view?usp=sharing)
