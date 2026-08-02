@@ -1,6 +1,6 @@
 # About Me
-- Building: Refactoring [Portfolio](https://harshilp-portfolio.vercel.app) (to v2)
-- Recent Build: [Protected-Notepad](https://protected-notepad.vercel.app/)
+- Building: Refactoring [Protected-Notepad](https://protected-notepad.vercel.app/)
+- Recent Build: [Protected-Notepad](https://protected-notepad.vercel.app/) & [Portfolio](https://harshilp-portfolio.vercel.app) (to v2)
 - Contact: [LinkTree](https://linktr.ee/harxxhil.gg/)
 - Portfolio: [here](https://harshilp-portfolio.vercel.app/)
 - Resume: [here](https://drive.google.com/file/d/1HHspVvRw8Swn-OiLc49E9R9TIyJjHBeC/view?usp=sharing)
