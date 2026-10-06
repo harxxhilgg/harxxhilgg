@@ -1,5 +1,5 @@
 # About Me
-- Building: Refactoring [Protected-Notepad](https://protected-notepad.vercel.app/)
+- Building: [PlotQ](https://plotq.vercel.app/)
 - Recent Build: [Protected-Notepad](https://protected-notepad.vercel.app/) & [Portfolio](https://harshilp-portfolio.vercel.app) (to v2)
 - Contact: [LinkTree](https://linktr.ee/harxxhil.gg/)
 - Portfolio: [here](https://harshilp-portfolio.vercel.app/)
